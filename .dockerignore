@@ -1,0 +1,4 @@
+# The main build context only needs start.sh. Laya source comes from the
+# separate "laya" build context (upstream/).
+**
+!start.sh
